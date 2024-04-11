@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "825368325329",
+    "firebase_url": "https://bdd-bodysynch-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bdd-bodysynch",
+    "storage_bucket": "bdd-bodysynch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825368325329:android:d11c9f467d8aeadab369f0",
+        "android_client_info": {
+          "package_name": "com.mycompany.bodysynchb2b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgIgMMt7MlOnRBgxOU9DzUsM4zjQkUhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
